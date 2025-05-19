@@ -10,8 +10,8 @@ Este es un proyecto de consulta de horóscopos según la fecha de nacimiento. In
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/juanreina19/horoscope.git
-cd horoscope
+git clone https://github.com/juanreina19/horoscope-with-api.git
+cd horoscope-with-api
 ```
 2. Construye y levanta los contenedores:
 
